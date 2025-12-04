@@ -4,13 +4,13 @@ A modern, AI-powered virtual stock trading platform built with React, Node.js, a
 
 ## Features
 
-- 🏦 **Virtual Trading**: Buy and sell stocks with virtual money
-- 📊 **Portfolio Tracking**: Real-time P&L analysis and position tracking
-- 🎯 **Investment Goals**: Set and track financial goals
-- 👀 **Watchlist**: Monitor stocks you're interested in
-- 🤖 **AI Predictions**: Get AI-powered stock analysis and predictions
-- 📈 **Dashboard**: Comprehensive overview of your trading activity
-- 🔐 **Secure Auth**: JWT-based authentication
+-  **Virtual Trading**: Buy and sell stocks with virtual money
+-  **Portfolio Tracking**: Real-time P&L analysis and position tracking
+-  **Investment Goals**: Set and track financial goals
+-  **Watchlist**: Monitor stocks you're interested in
+-  **AI Predictions**: Get AI-powered stock analysis and predictions
+-  **Dashboard**: Comprehensive overview of your trading activity
+-  **Secure Auth**: JWT-based authentication
 
 ## Tech Stack
 
